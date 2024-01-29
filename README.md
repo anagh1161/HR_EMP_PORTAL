@@ -15,7 +15,7 @@ To run the HR Employee Portal on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hr-employee-portal.git
+   git clone https://github.com/anagh1161/HR_EMP_PORTAL.git
 
 Set up the MySQL database:
 
